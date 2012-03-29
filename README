@@ -1,1 +1,4 @@
-input auto complete
+后端基于node
+文件autoComplete.js为后端node.js代码
+js/areaJson.js为提供给后端的城市数据
+js/areaInfo.js为提供给前端的完整城市数据
